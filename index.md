@@ -7,7 +7,7 @@ layout: default
 Automated notebook workflows
 
 
-## [Lan Kwai Fund](https://www.lankwai.fun)
+## [Lan Kwai Fund](https://www.lankwai.fund)
 Cryptocurrency fund
 
 ## [Lost&Found](https://loststuff.herokuapp.com)
@@ -26,6 +26,9 @@ Towards open financial analytics
 # Packages 
 ## [Paperboy](https://github.com/timkpaine/paperboy)
 Automated notebook workflows
+
+## [Tributary](https://github.com/timkpaine/tributary)
+Python data streams
 
 ## [Lantern](https://github.com/timkpaine/lantern)
 Toolkit for data science
